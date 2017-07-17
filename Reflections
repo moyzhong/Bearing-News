@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: powderblue;
+    clear: left;
+    text-align: center;
+}
+
+article {
+    margin-left: 5px;
+    border-left: 5px solid gray;
+    padding: 2em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Reflections</h1>
+</header>
+  
+<article>
+<dl>
+	<dt style="color:blue;"><b>July 17th, 2017</b></dt>
+    <dd>We talked a lot about robots and their ethics today. How did your idea of robotics change? What makes you excited about the future of robotics? Nervous?</dd>
+    <dd>- What makes me excited about the future of robots is that they're becoming more of a household item. For example, today my group and I researched ToyMail, a company that produced little toys, "Talkies", that were developed as communication devices for children. The Talkies allowed for children to call or message parents and friends without the use of a cellphone, but the use of their Talkies. The Talkies also function as stuffed animals and companions for the children to play with. This "kid-friendly" way for children to get introduced to cellular devices and communication skills made me excited because it showed that even from a young age children are getting slowly accomodated to a newer and modern world, just as the rest of us are. We are all transferring to a digital era where devices like the Talkies will become household products, showing how our world has been gradually advancing. However, I am also nervous for this world as well. For example, drones, a controversial topic in this day and age, are also becoming household appliances. Privacy has always been an issue with this form of technology, but this fear is brought upon how the user can utilize this technology rather than the proper good-intended use. However, with more drones in more household this increases the probability of such technologies being misuesd for malicious purposes. 
+    <dd>You worked on circuits in groups, and will be working in groups for the rest of the week. What worked well? What could have been better next time?</dd>
+    
+
+</div>
+<footer>Moy Zhong</footer>
+
+</body>
+</html>
